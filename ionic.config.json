@@ -1,7 +1,0 @@
-{
-  "name": "pwa-estatica",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
